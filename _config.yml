@@ -24,8 +24,8 @@ description              : "고양이 집사 "
 url                      : "https://two-cat.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   :  "/assets/images/KakaoTalk_20210902_092909590.jpg"
-logo                     : "/assets/images/speech_bubble_51.png"
+teaser                   :  "/assets/images/cat.png"
+logo                     : "/assets/images/kyl.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
